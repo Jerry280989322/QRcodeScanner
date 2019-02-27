@@ -10,9 +10,10 @@ The introduction of QRcode Scanner.
   在CMOS图像传感器芯片上还可以集成其他数字信号处理电路，如`AD转换器`、自动曝光量控制、非均匀补偿、白平衡处理、黑电平控制、伽玛校正等，为了进行快速计算甚至可以将具有可编程功能的DSP器件与CMOS器件集成在一起，从而组成单片数字相机及图像处理系统。<br><br>
   噪声的大小直接影响CMOS图像传感器对信号的采集和处理，因此如何提高信噪比是CMOS图像传感器的关键技术之一。噪声主要包括散粒噪声、热噪声、1/f噪声、非均匀噪声和固定图像噪声。其中散粒噪声和热噪声是由载流子引起的，1/f噪声和非均匀噪声是由材料的缺陷和不均匀性引起的，固定图像噪声是因为工艺的误差使相邻输出信号的源跟随器不匹配引起的。
 #### CMOS传感器供应商（12强）
-1. Sony Group 日本 官网：https://www.sony.net<br>
-2. Samsung Group 韩国 官网：http://www.samsung.com/<br>
-3. OmniVision Technologies, Inc. 美国 官网：http://www.ovt.com/<br>
-4. ON Semiconductor 美国 官网：http://www.onsemi.cn/<br>
-5. Canon Inc. 日本 官网：http://global.canon/<br>
+* Sony Group 日本 官网：https://www.sony.net<br>
+* Samsung Group 韩国 官网：http://www.samsung.com/<br>
+* OmniVision Technologies, Inc. 美国 官网：http://www.ovt.com/<br>
+  * OV7120黑白图像传感芯片，该芯片分辨率达到640×480像素，成像速度为30帧/秒，采取逐行扫描方式，输出为数字信号。此芯片功耗低，价格便宜.扫码机应用：https://www.eefocus.com/embedded/m/311751
+* ON Semiconductor 美国 官网：http://www.onsemi.cn/<br>
+* Canon Inc. 日本 官网：http://global.canon/<br>
 ### 2.CCD [百度](https://baike.baidu.com/item/CCD%E5%9B%BE%E5%83%8F%E4%BC%A0%E6%84%9F%E5%99%A8)
