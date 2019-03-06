@@ -1,7 +1,6 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2019.2.27)  28 FEB 2019 20:09
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2019.2.27)  6 MAR 2019 11:13
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **Scanner_intro.tex
 (./Scanner_intro.tex
@@ -643,12 +642,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--43
 File: part1.jpg Graphic file (type bmp)
 <part1.jpg>
  [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
 
  []
 
 
-Overfull \hbox (19.41623pt too wide) in paragraph at lines 87--88
+Overfull \hbox (19.41623pt too wide) in paragraph at lines 85--86
 []\TU/FandolSong-Regular(0)/m/n/10.95 模 式 噪 声 的 主 要 由 两 个 部 分 组 成\TU/lmr/m/n/10
 .95 :FPN(fixed pattern noise) \TU/FandolSong-Regular(0)/m/n/10.95 和 \TU/lmr/m/n
 /10.95 PRNU(photo-
@@ -656,21 +655,21 @@ Overfull \hbox (19.41623pt too wide) in paragraph at lines 87--88
 
 File: noise.png Graphic file (type bmp)
 <noise.png>
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
  (./Scanner_intro.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 104.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
 Package rerunfilecheck Info: File `Scanner_intro.out' has not changed.
 (rerunfilecheck)             Checksum: 942115052E3D528790BD376B69603C21.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
  ) 
 Here is how much of TeX's memory you used:
- 21712 strings out of 492933
- 442096 string characters out of 6133145
+ 21699 strings out of 492933
+ 441076 string characters out of 6133145
  533777 words of memory out of 5000000
- 25651 multiletter control sequences out of 15000+600000
+ 25638 multiletter control sequences out of 15000+600000
  535570 words of font info for 51 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  44i,6n,64p,450b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
